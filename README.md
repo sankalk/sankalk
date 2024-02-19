@@ -7,7 +7,7 @@
 
 :computer: I'm a Developer <br>
 :house_with_garden: I'm from Dambulla, Sri Lanka.<br>
-👨‍💼: I'm currently work Discord <br>
+👨‍💼 I'm currently work Discord <br>
 
 ## :hammer_and_wrench: Tools and Technologies
 
