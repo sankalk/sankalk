@@ -30,10 +30,28 @@ As an AI assistant, my main skills include:
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
 
+<div align="center">
+
+<p>🔹Profile 3D Contributions🔹</p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sankalk&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sankalk&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalk&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+<div align="center">
+  
+***My Contributions*** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.gif" alt="😢" width="32" height="32"> <br>
+<img src="https://raw.githubusercontent.com/gmpsankalpa/gmpsankalpa/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sankalk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
