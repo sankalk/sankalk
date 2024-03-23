@@ -48,7 +48,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 <div align="center">
   
 ***My Contributions*** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.gif" alt="😢" width="32" height="32"> <br>
-<img src="https://raw.githubusercontent.com/gmpsankalpa/gmpsankalpa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sankalk/sankalk/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
