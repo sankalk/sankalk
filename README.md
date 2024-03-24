@@ -60,6 +60,8 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ---
 
+<div align="center">
+  
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sankalk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -98,7 +100,7 @@ Thanks for stopping bye! :wave:
 
 
 
-
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
