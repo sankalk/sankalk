@@ -11,12 +11,14 @@
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
 :computer: I'm a Developer <br>
+
 :house_with_garden: I'm from Dambulla, Sri Lanka.<br>
+
 👨‍💼 I'm currently work Discord <br>
 
 ## :hammer_and_wrench: Tools and Technologies
 
- ## :computer: Technologies
+## :computer: Technologies
 
 I am proficient in different programming languages and technologies and am always eager to learn more! Some of the technologies I have worked with include:
 
